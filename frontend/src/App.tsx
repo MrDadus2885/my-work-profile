@@ -10,7 +10,6 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import { ProfileData } from './types/ProfileData';
 
-
 interface AuthState {
   token: string;
   username: string;
